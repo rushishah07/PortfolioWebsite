@@ -139,20 +139,20 @@ Assigned to: ThemeForest
         });
         var circle9 = Circles.create({
             id: 'circles-9',
-            value: 80,
+            value: 95,
             radius: 100,
             number: 70,
-            text: '80%',
+            text: '95%',
             width: 8,
             colors: ["#202020", "#bf5700"],
             duration: 900
         });
         var circle10 = Circles.create({
             id: 'circles-10',
-            value: 95,
+            value: 80,
             radius: 100,
             number: 70,
-            text: '95%',
+            text: '80%',
             width: 8,
             colors: ["#202020", "#2274a5"],
             duration: 900
