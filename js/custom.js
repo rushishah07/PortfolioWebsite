@@ -55,7 +55,7 @@ Assigned to: ThemeForest
           }
       });
       
-      //Skills Charts
+          //Skills Charts
       $('.prt_skills_wrapper').appear(function() {
           var circle1 = Circles.create({
               id: 'circles-1',
@@ -64,37 +64,37 @@ Assigned to: ThemeForest
               number: 90,
               text: '90%',
               width: 8,
-              colors: ["#202020", "#00c8ff"],
+              colors: ["#202020", "#2274a5"],
               duration: 900
           });
           var circle2 = Circles.create({
               id: 'circles-2',
-              value: 80,
+              value: 90,
               radius: 100,
               number: 80,
-              text: '80%',
+              text: '90%',
               width: 8,
-              colors: ["#202020", "#ff8511"],
+              colors: ["#202020", "#2274a5"],
               duration: 900
           });
           var circle3 = Circles.create({
               id: 'circles-3',
-              value: 75,
+              value: 95,
               radius: 100,
               number: 75,
-              text: '75%',
+              text: '95%',
               width: 8,
-              colors: ["#202020", "#f26525"],
+              colors: ["#202020", "#bf5700"],
               duration: 900
           });
           var circle4 = Circles.create({
               id: 'circles-4',
-              value: 70,
+              value: 80,
               radius: 100,
               number: 70,
-              text: '70%',
+              text: '80%',
               width: 8,
-              colors: ["#202020", "#1d8bbe"],
+              colors: ["#202020", "#2274a5"],
               duration: 900
           });
           var circle5 = Circles.create({
@@ -104,27 +104,27 @@ Assigned to: ThemeForest
             number: 90,
             text: '90%',
             width: 8,
-            colors: ["#202020", "#00c8ff"],
+            colors: ["#202020", "#bf5700"],
             duration: 900
         });
         var circle6 = Circles.create({
             id: 'circles-6',
-            value: 80,
+            value: 70,
             radius: 100,
             number: 80,
-            text: '80%',
+            text: '70%',
             width: 8,
-            colors: ["#202020", "#ff8511"],
+            colors: ["#202020", "#bf5700"],
             duration: 900
         });
         var circle7 = Circles.create({
             id: 'circles-7',
-            value: 75,
+            value: 95,
             radius: 100,
             number: 75,
-            text: '75%',
+            text: '95%',
             width: 8,
-            colors: ["#202020", "#f26525"],
+            colors: ["#202020", "#2274a5"],
             duration: 900
         });
         var circle8 = Circles.create({
@@ -134,27 +134,27 @@ Assigned to: ThemeForest
             number: 70,
             text: '70%',
             width: 8,
-            colors: ["#202020", "#1d8bbe"],
+            colors: ["#202020", "#bf5700"],
             duration: 900
         });
         var circle9 = Circles.create({
             id: 'circles-9',
-            value: 70,
+            value: 80,
             radius: 100,
             number: 70,
-            text: '70%',
+            text: '80%',
             width: 8,
-            colors: ["#202020", "#1d8bbe"],
+            colors: ["#202020", "#bf5700"],
             duration: 900
         });
         var circle10 = Circles.create({
             id: 'circles-10',
-            value: 70,
+            value: 95,
             radius: 100,
             number: 70,
-            text: '70%',
+            text: '95%',
             width: 8,
-            colors: ["#202020", "#1d8bbe"],
+            colors: ["#202020", "#2274a5"],
             duration: 900
         });
       });
